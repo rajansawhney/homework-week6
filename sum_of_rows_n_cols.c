@@ -6,22 +6,21 @@ The size and elements of the matrix are provided by the user.
 
 Note:
 1. Input only integers
-2. Display element and sum using the following printf format only (to match example output):
+2. Display elements and sums using the following printf format only to match example output:
     printf("%4d", <element or sum>)
 
 
 Example:
 Input square matrix of size 3:
-    1   2   3
-    4   5   6
-    7   8   9
+   1   2   3
+   4   5   6
+   7   8   9
 
-Output of individual rows and columns:
-    1   2   3   6
-    4   5   6   15
-    7   8   9   24
-    12  15  18
+Sum of individual rows and columns:
+   1   2   3   6
+   4   5   6  15
+   7   8   9  24
+  12  15  18
 */
-
 
 
