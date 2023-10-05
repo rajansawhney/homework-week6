@@ -10,7 +10,7 @@ Note:
     Array after deletion: [<array elements>]
 
 Example:
-Original array: [6 7 8 9 10]
+Original array: 6 7 8 9 10
 --> delete element at position 2 (element: 8)
-Array after deletion: [6 7 9 10]
+Array after deletion: 6 7 9 10
 */
