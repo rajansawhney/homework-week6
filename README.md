@@ -28,7 +28,7 @@ We strongly recommend you run your finished programs on your local machine/lapto
 
 If your code did not pass, revise your code and submit(commit) your changes again.
 
-Make sure you have your final submission is in before the deadline has passed.
+Make sure you have your final submission in before the deadline has passed.
 
 You will not be able to submit changes after the deadline has passed.
 
