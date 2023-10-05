@@ -10,7 +10,7 @@ Note:
     - position from where an element needs to be deleted
 2. Upon deletion of the element at the specified position, all elements after that position must be shifted one position to the left to fill up the gap.
 3. Display output as:
-    Array after deletion: [<array elements>]
+    Array after deletion: <array elements separated by a single space>
 
 Example:
 Original array: 6 7 8 9 10
