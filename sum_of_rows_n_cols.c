@@ -5,7 +5,7 @@ Write a C program that finds the sum of individual rows and individual columns o
 The size and elements of the matrix are provided by the user.
 
 Note:
-1. Input only integers
+1. Input integers for size of square matrix and its elements
 2. Display elements and sums using the following printf format only to match example output:
     printf("%4d", <element or sum>)
 
